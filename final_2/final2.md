@@ -5,10 +5,10 @@ Este proyecto consiste en la **extracción, almacenamiento y análisis de datos 
 
 ## 1️⃣ Extracción de datos de películas
 
--ENPOINT: https://beta.adalab.es/resources/apis/pelis/pelis.json
+-ENDPOINT: https://beta.adalab.es/resources/apis/pelis/pelis.json
 
 - Se transforman en un **DataFrame de Pandas** para preprara para su analisis, filtar, ordenar, moldear datos y limpiarlos .
-- Ademas, se convierte los datos datos nulos que pueden aparecer de diferentes formas como por ejemplo ;'Nan','nan;, etc. y listas dentro de las columnas para que sean compatibles con MySQL.
+- Ademas, se convierte los datos nulos que pueden aparecer de diferentes formas como por ejemplo ;'Nan','nan', etc. y listas dentro de las columnas para que sean compatibles con MySQL.
 
 ---
 
